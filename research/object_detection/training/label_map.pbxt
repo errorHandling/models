@@ -1,0 +1,28 @@
+item {
+    id: 1
+    name: 'specularity'
+}
+item {
+    id: 2
+    name: 'saturation'
+}
+item {
+    id: 3
+    name: 'artifact'
+}
+item {
+    id: 4
+    name: 'blur'
+}
+item {
+    id: 5
+    name: 'contrast'
+}
+item {
+    id: 6
+    name: 'bubbles'
+}
+item {
+    id: 7
+    name: 'instrument'
+}
